@@ -1,7 +1,7 @@
 # Text Editor
 
 ## Description
-description
+This assignment is for developers to create a web-based text editor application that allows users to create and save notes or code snippets with or without an internet connection. The application has a client-server folder structure, run the backend and serve the client, use webpack to bundle JavaScript files and generate HTML, service worker, and manifest files, use IndexedDB for saving and retrieving content, have an install button to download the application as an icon on the desktopk, and register a service worker using workbox for aching static assets. Additionally, the application shoudl function without errors when using JavasScript, and proper build scripts should be provided for deployment to Heroku.
 
 ## Table of Contents
 
